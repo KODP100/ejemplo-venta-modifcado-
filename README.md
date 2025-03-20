@@ -13,7 +13,7 @@ http://dominiolocal/api/catalogo/categoria?categoria_id=1
 
 filtrar por productos usando solo el id
 ```javascript
-http://dominio local/api/catalogo/productos?producto_id=
+http://dominio local/api/catalogo/productos?producto_id=1
 ```
 
 mostrar todos los pedidos
